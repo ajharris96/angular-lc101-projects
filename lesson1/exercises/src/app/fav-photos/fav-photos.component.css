@@ -8,4 +8,6 @@ img {
 
 .photos {
    text-align: center;
+   height: 50px;
+   width: 50px;
 }
