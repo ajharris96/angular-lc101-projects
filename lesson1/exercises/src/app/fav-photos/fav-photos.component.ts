@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class FavPhotosComponent implements OnInit {
   photosTitle = 'My Favorite Photos';
   image1 = 'https://preview.redd.it/axfdkc3bojh71.jpg?width=640&crop=smart&auto=webp&s=c25c81afac6bc202eb3981000c3a3e73a6042da0';
-  image2 = 'http://www.nasa.gov/sites/default/files/thumbnails/image/pia23645_pbd_main-16.jpg';
-  image3 = 'https://media.sanctuarymentalhealth.org/wp-content/uploads/2021/03/04151535/The-Starry-Night.jpg'
+  image2 = 'https://preview.redd.it/zqcckk5gls961.png?width=640&crop=smart&auto=webp&s=aade0d53ba02f92bc3da0b0aa98b89c4236f5d39'
+  image3 = 'https://preview.redd.it/615o3mx0uic61.jpg?width=640&crop=smart&auto=webp&s=004fe6902564d7d8b61c4512aa97622cdf8f180d'
   constructor() { }
 
   ngOnInit() {
